@@ -1,0 +1,1171 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+      {
+          "type": "Feature",
+          "properties": {
+              "name": "Calvaire",
+              "country": "France",
+              "country_code": "fr",
+              "region": "Metropolitan France",
+              "state": "Centre-Val de Loire",
+              "county": "Indre",
+              "city": "Sarzay",
+              "isolated_dwelling": "Le Château",
+              "municipality": "La Châtre",
+              "postcode": "36230",
+              "street": "Place des Combattants en AFN",
+              "lon": 1.9038276,
+              "lat": 46.6012468,
+              "state_code": "CVL",
+              "state_COG": "24",
+              "formatted": "Calvaire, Place des Combattants en AFN, 36230 Sarzay, France",
+              "address_line1": "Calvaire",
+              "address_line2": "Place des Combattants en AFN, 36230 Sarzay, France",
+              "categories": [
+                  "tourism",
+                  "tourism.sights",
+                  "tourism.sights.memorial",
+                  "tourism.sights.memorial.wayside_cross"
+              ],
+              "details": [
+                  "details.place_of_worship"
+              ],
+              "datasource": {
+                  "sourcename": "openstreetmap",
+                  "attribution": "© OpenStreetMap contributors",
+                  "license": "Open Database License",
+                  "url": "https://www.openstreetmap.org/copyright",
+                  "raw": {
+                      "name": "Calvaire",
+                      "osm_id": 4379747797,
+                      "historic": "wayside_cross",
+                      "osm_type": "n",
+                      "religion": "christian",
+                      "denomination": "catholic"
+                  }
+              },
+              "historic": {
+                  "type": "wayside_cross"
+              },
+              "place_of_worship": {
+                  "religion": "christian",
+                  "denomination": "catholic"
+              },
+              "distance": 1210,
+              "place_id": "51038ef3ed1376fe3f5938edb7a7f54c4740f00103f901d5a50d050100000092030843616c7661697265"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  1.9038276000000003,
+                  46.601246800239494
+              ]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "name": "Monument aux Morts",
+              "country": "France",
+              "country_code": "fr",
+              "region": "Metropolitan France",
+              "state": "Centre-Val de Loire",
+              "county": "Indre",
+              "city": "Sarzay",
+              "isolated_dwelling": "Le Château",
+              "municipality": "La Châtre",
+              "postcode": "36230",
+              "street": "Place Raymond Plique",
+              "lon": 1.9046314,
+              "lat": 46.6013595,
+              "state_code": "CVL",
+              "state_COG": "24",
+              "formatted": "Monument aux Morts, Place Raymond Plique, 36230 Sarzay, France",
+              "address_line1": "Monument aux Morts",
+              "address_line2": "Place Raymond Plique, 36230 Sarzay, France",
+              "categories": [
+                  "tourism",
+                  "tourism.sights",
+                  "tourism.sights.memorial"
+              ],
+              "details": [
+                  "details.historic"
+              ],
+              "datasource": {
+                  "sourcename": "openstreetmap",
+                  "attribution": "© OpenStreetMap contributors",
+                  "license": "Open Database License",
+                  "url": "https://www.openstreetmap.org/copyright",
+                  "raw": {
+                      "name": "Monument aux Morts",
+                      "osm_id": 3660703536,
+                      "historic": "memorial",
+                      "memorial": "war_memorial",
+                      "osm_type": "n"
+                  }
+              },
+              "historic": {
+                  "type": "memorial",
+                  "memorial": "war_memorial"
+              },
+              "distance": 1268,
+              "place_id": "5181f45ec65e79fe3f5970551d59f94c4740f00103f90130e731da000000009203124d6f6e756d656e7420617578204d6f727473"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  1.9046313999999998,
+                  46.60135950023948
+              ]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "name": "Château de Sarzay",
+              "country": "France",
+              "country_code": "fr",
+              "region": "Metropolitan France",
+              "state": "Centre-Val de Loire",
+              "county": "Indre",
+              "city": "Sarzay",
+              "isolated_dwelling": "La Métairie",
+              "municipality": "La Châtre",
+              "postcode": "36230",
+              "street": "D 41",
+              "lon": 1.9064693850950118,
+              "lat": 46.6005083,
+              "state_code": "CVL",
+              "state_COG": "24",
+              "formatted": "Château de Sarzay, D 41, 36230 Sarzay, France",
+              "address_line1": "Château de Sarzay",
+              "address_line2": "D 41, 36230 Sarzay, France",
+              "categories": [
+                  "building",
+                  "building.historic",
+                  "building.tourism",
+                  "fee",
+                  "heritage",
+                  "tourism",
+                  "tourism.attraction",
+                  "tourism.sights",
+                  "tourism.sights.castle"
+              ],
+              "details": [
+                  "details",
+                  "details.building",
+                  "details.heritage",
+                  "details.historic",
+                  "details.wiki_and_media"
+              ],
+              "datasource": {
+                  "sourcename": "openstreetmap",
+                  "attribution": "© OpenStreetMap contributors",
+                  "license": "Open Database License",
+                  "url": "https://www.openstreetmap.org/copyright",
+                  "raw": {
+                      "fee": "yes",
+                      "name": "Château de Sarzay",
+                      "height": 25,
+                      "osm_id": 258316522,
+                      "ref:mhs": "PA00097467",
+                      "tourism": "attraction",
+                      "website": "https://sarzay.net/",
+                      "building": "yes",
+                      "heritage": 2,
+                      "historic": "castle",
+                      "osm_type": "w",
+                      "wikidata": "Q950709",
+                      "wikipedia": "fr:Château de Sarzay",
+                      "castle_type": "defensive",
+                      "building:part": "no",
+                      "heritage:operator": "mhs",
+                      "mhs:inscription_date": "1912-01-29"
+                  }
+              },
+              "website": "https://sarzay.net/",
+              "ref_other": {
+                  "mhs": "PA00097467"
+              },
+              "wiki_and_media": {
+                  "wikidata": "Q950709",
+                  "wikipedia": "fr:Château de Sarzay"
+              },
+              "historic": {
+                  "type": "castle",
+                  "castle_type": "defensive"
+              },
+              "heritage": {
+                  "level": 2,
+                  "operator": "mhs",
+                  "ref": "PA00097467",
+                  "inscription_date": "1912-01-29"
+              },
+              "building": {
+                  "height": 25
+              },
+              "distance": 1414,
+              "place_id": "51d6eebc0ae680fe3f59c040bb74dd4c4740f00102f901ea98650f000000009203124368c3a274656175206465205361727a6179"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  1.9064693850950127,
+                  46.60050830023965
+              ]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "name": "Calvaire",
+              "country": "France",
+              "country_code": "fr",
+              "region": "Metropolitan France",
+              "state": "Centre-Val de Loire",
+              "county": "Indre",
+              "city": "Sarzay",
+              "isolated_dwelling": "Chenil",
+              "municipality": "La Châtre",
+              "postcode": "36230",
+              "street": "Route de Nohant",
+              "lon": 1.9071356,
+              "lat": 46.6029053,
+              "state_code": "CVL",
+              "state_COG": "24",
+              "formatted": "Calvaire, Route de Nohant, 36230 Sarzay, France",
+              "address_line1": "Calvaire",
+              "address_line2": "Route de Nohant, 36230 Sarzay, France",
+              "categories": [
+                  "tourism",
+                  "tourism.sights",
+                  "tourism.sights.memorial",
+                  "tourism.sights.memorial.wayside_cross"
+              ],
+              "details": [
+                  "details.place_of_worship"
+              ],
+              "datasource": {
+                  "sourcename": "openstreetmap",
+                  "attribution": "© OpenStreetMap contributors",
+                  "license": "Open Database License",
+                  "url": "https://www.openstreetmap.org/copyright",
+                  "raw": {
+                      "name": "Calvaire",
+                      "osm_id": 4379747798,
+                      "historic": "wayside_cross",
+                      "osm_type": "n",
+                      "religion": "christian",
+                      "denomination": "catholic"
+                  }
+              },
+              "historic": {
+                  "type": "wayside_cross"
+              },
+              "place_of_worship": {
+                  "religion": "christian",
+                  "denomination": "catholic"
+              },
+              "distance": 1441,
+              "place_id": "51ef98709ea083fe3f59648e39002c4d4740f00103f901d6a50d050100000092030843616c7661697265"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  1.9071356,
+                  46.6029053002392
+              ]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "name": "Panneau du Stade André Lacou",
+              "country": "France",
+              "country_code": "fr",
+              "region": "Metropolitan France",
+              "state": "Centre-Val de Loire",
+              "county": "Indre",
+              "city": "Sarzay",
+              "isolated_dwelling": "Chenil",
+              "municipality": "La Châtre",
+              "postcode": "36230",
+              "street": "Route de Nohant",
+              "lon": 1.9115166,
+              "lat": 46.6053236,
+              "state_code": "CVL",
+              "state_COG": "24",
+              "formatted": "Panneau du Stade André Lacou, Route de Nohant, 36230 Sarzay, France",
+              "address_line1": "Panneau du Stade André Lacou",
+              "address_line2": "Route de Nohant, 36230 Sarzay, France",
+              "categories": [
+                  "tourism",
+                  "tourism.attraction"
+              ],
+              "details": [],
+              "datasource": {
+                  "sourcename": "openstreetmap",
+                  "attribution": "© OpenStreetMap contributors",
+                  "license": "Open Database License",
+                  "url": "https://www.openstreetmap.org/copyright",
+                  "raw": {
+                      "name": "Panneau du Stade André Lacou",
+                      "osm_id": 5855837337,
+                      "tourism": "attraction",
+                      "osm_type": "n"
+                  }
+              },
+              "distance": 1790,
+              "place_id": "51862d2c6e9295fe3f59df42653e7b4d4740f00103f90199fc085d0100000092031d50616e6e65617520647520537461646520416e6472c3a9204c61636f75"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  1.9115166000000001,
+                  46.605323600238755
+              ]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "country": "France",
+              "country_code": "fr",
+              "region": "Metropolitan France",
+              "state": "Centre-Val de Loire",
+              "county": "Indre",
+              "city": "Fougerolles",
+              "hamlet": "Montabin",
+              "municipality": "La Châtre",
+              "postcode": "36230",
+              "street": "Route du Pigeonnier",
+              "lon": 1.8777193,
+              "lat": 46.5842044,
+              "state_code": "CVL",
+              "state_COG": "24",
+              "formatted": "Route du Pigeonnier, 36230 Fougerolles, France",
+              "address_line1": "Route du Pigeonnier",
+              "address_line2": "36230 Fougerolles, France",
+              "categories": [
+                  "tourism",
+                  "tourism.sights",
+                  "tourism.sights.memorial",
+                  "tourism.sights.memorial.wayside_cross"
+              ],
+              "details": [
+                  "details.place_of_worship"
+              ],
+              "datasource": {
+                  "sourcename": "openstreetmap",
+                  "attribution": "© OpenStreetMap contributors",
+                  "license": "Open Database License",
+                  "url": "https://www.openstreetmap.org/copyright",
+                  "raw": {
+                      "osm_id": 6300098208,
+                      "historic": "wayside_cross",
+                      "osm_type": "n",
+                      "religion": "christian",
+                      "denomination": "catholic"
+                  }
+              },
+              "historic": {
+                  "type": "wayside_cross"
+              },
+              "place_of_worship": {
+                  "religion": "christian",
+                  "denomination": "catholic"
+              },
+              "distance": 2279,
+              "place_id": "5195168964230bfe3f595f9cb435c74a4740f00103f901a0de837701000000"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  1.8777193,
+                  46.58420440024269
+              ]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "name": "Abbaye de Varennes",
+              "country": "France",
+              "country_code": "fr",
+              "region": "Metropolitan France",
+              "state": "Centre-Val de Loire",
+              "county": "Indre",
+              "city": "Fougerolles",
+              "hamlet": "Montabin",
+              "municipality": "La Châtre",
+              "postcode": "36230",
+              "street": "D 19",
+              "lon": 1.866643,
+              "lat": 46.5856154,
+              "state_code": "CVL",
+              "state_COG": "24",
+              "formatted": "Abbaye de Varennes, D 19, 36230 Fougerolles, France",
+              "address_line1": "Abbaye de Varennes",
+              "address_line2": "D 19, 36230 Fougerolles, France",
+              "categories": [
+                  "heritage",
+                  "tourism",
+                  "tourism.attraction"
+              ],
+              "details": [
+                  "details",
+                  "details.heritage",
+                  "details.wiki_and_media"
+              ],
+              "datasource": {
+                  "sourcename": "openstreetmap",
+                  "attribution": "© OpenStreetMap contributors",
+                  "license": "Open Database License",
+                  "url": "https://www.openstreetmap.org/copyright",
+                  "raw": {
+                      "name": "Abbaye de Varennes",
+                      "place": "isolated_dwelling",
+                      "osm_id": 4397477514,
+                      "ref:mhs": "PA00097348",
+                      "tourism": "attraction",
+                      "heritage": 2,
+                      "osm_type": "n",
+                      "wikidata": "Q1233587",
+                      "wikipedia": "fr:Abbaye de Varennes",
+                      "heritage:operator": "mhs",
+                      "mhs:inscription_date": "1993-02-18"
+                  }
+              },
+              "ref_other": {
+                  "mhs": "PA00097348"
+              },
+              "wiki_and_media": {
+                  "wikidata": "Q1233587",
+                  "wikipedia": "fr:Abbaye de Varennes"
+              },
+              "heritage": {
+                  "level": 2,
+                  "operator": "mhs",
+                  "ref": "PA00097348",
+                  "inscription_date": "1993-02-18"
+              },
+              "distance": 2579,
+              "place_id": "51d2eae40cc5ddfd3f599f090872f54a4740f00103f9018a2e1c060100000092031241626261796520646520566172656e6e6573"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  1.8666430000000003,
+                  46.585615400242425
+              ]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "country": "France",
+              "country_code": "fr",
+              "region": "Metropolitan France",
+              "state": "Centre-Val de Loire",
+              "county": "Indre",
+              "city": "Fougerolles",
+              "municipality": "La Châtre",
+              "postcode": "36230",
+              "street": "D 51",
+              "lon": 1.864927,
+              "lat": 46.584515,
+              "state_code": "CVL",
+              "state_COG": "24",
+              "formatted": "D 51, 36230 Fougerolles, France",
+              "address_line1": "D 51",
+              "address_line2": "36230 Fougerolles, France",
+              "categories": [
+                  "tourism",
+                  "tourism.sights",
+                  "tourism.sights.memorial",
+                  "tourism.sights.memorial.wayside_cross"
+              ],
+              "details": [],
+              "datasource": {
+                  "sourcename": "openstreetmap",
+                  "attribution": "© OpenStreetMap contributors",
+                  "license": "Open Database License",
+                  "url": "https://www.openstreetmap.org/copyright",
+                  "raw": {
+                      "osm_id": 4139116446,
+                      "historic": "wayside_cross",
+                      "osm_type": "n"
+                  }
+              },
+              "historic": {
+                  "type": "wayside_cross"
+              },
+              "distance": 2757,
+              "place_id": "5199d6a6b1bdd6fd3f5922083563d14a4740f00103f9019ee7b5f600000000"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  1.864927,
+                  46.58451500024263
+              ]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "name": "Calvaire",
+              "country": "France",
+              "country_code": "fr",
+              "region": "Metropolitan France",
+              "state": "Centre-Val de Loire",
+              "county": "Indre",
+              "city": "Sarzay",
+              "hamlet": "Le Pondron",
+              "municipality": "La Châtre",
+              "postcode": "36230",
+              "street": "Route de Vignonnet",
+              "lon": 1.8935296,
+              "lat": 46.5774091,
+              "state_code": "CVL",
+              "state_COG": "24",
+              "formatted": "Calvaire, Route de Vignonnet, 36230 Sarzay, France",
+              "address_line1": "Calvaire",
+              "address_line2": "Route de Vignonnet, 36230 Sarzay, France",
+              "categories": [
+                  "tourism",
+                  "tourism.sights",
+                  "tourism.sights.memorial",
+                  "tourism.sights.memorial.wayside_cross"
+              ],
+              "details": [
+                  "details.place_of_worship"
+              ],
+              "datasource": {
+                  "sourcename": "openstreetmap",
+                  "attribution": "© OpenStreetMap contributors",
+                  "license": "Open Database License",
+                  "url": "https://www.openstreetmap.org/copyright",
+                  "raw": {
+                      "name": "Calvaire",
+                      "osm_id": 4932167529,
+                      "historic": "wayside_cross",
+                      "osm_type": "n",
+                      "religion": "christian",
+                      "denomination": "catholic"
+                  }
+              },
+              "historic": {
+                  "type": "wayside_cross"
+              },
+              "place_of_worship": {
+                  "religion": "christian",
+                  "denomination": "catholic"
+              },
+              "distance": 2911,
+              "place_id": "519d20a0b1e54bfe3f59f3fa988ae8494740f00103f90169e7fa250100000092030843616c7661697265"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  1.8935296000000001,
+                  46.57740910024395
+              ]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "name": "Croix de Conde",
+              "country": "France",
+              "country_code": "fr",
+              "region": "Metropolitan France",
+              "state": "Centre-Val de Loire",
+              "county": "Indre",
+              "city": "Montipouret",
+              "municipality": "La Châtre",
+              "postcode": "36230",
+              "street": "Route du Bois Méroux",
+              "lon": 1.919036,
+              "lat": 46.6253109,
+              "state_code": "CVL",
+              "state_COG": "24",
+              "formatted": "Croix de Conde, Route du Bois Méroux, 36230 Montipouret, France",
+              "address_line1": "Croix de Conde",
+              "address_line2": "Route du Bois Méroux, 36230 Montipouret, France",
+              "categories": [
+                  "tourism",
+                  "tourism.sights",
+                  "tourism.sights.memorial",
+                  "tourism.sights.memorial.wayside_cross"
+              ],
+              "details": [],
+              "datasource": {
+                  "sourcename": "openstreetmap",
+                  "attribution": "© OpenStreetMap contributors",
+                  "license": "Open Database License",
+                  "url": "https://www.openstreetmap.org/copyright",
+                  "raw": {
+                      "name": "Croix de Conde",
+                      "osm_id": 6060126514,
+                      "historic": "wayside_cross",
+                      "osm_type": "n"
+                  }
+              },
+              "historic": {
+                  "type": "wayside_cross"
+              },
+              "distance": 3390,
+              "place_id": "51e68bbd175fb4fe3f59ba2b05300a504740f00103f901323136690100000092030e43726f697820646520436f6e6465"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  1.9190359999999997,
+                  46.62531090023499
+              ]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "country": "France",
+              "country_code": "fr",
+              "region": "Metropolitan France",
+              "state": "Centre-Val de Loire",
+              "county": "Indre",
+              "city": "Fougerolles",
+              "isolated_dwelling": "Les Petoux",
+              "municipality": "La Châtre",
+              "postcode": "36230",
+              "street": "D 927",
+              "lon": 1.8646867,
+              "lat": 46.5718718,
+              "state_code": "CVL",
+              "state_COG": "24",
+              "formatted": "D 927, 36230 Fougerolles, France",
+              "address_line1": "D 927",
+              "address_line2": "36230 Fougerolles, France",
+              "categories": [
+                  "tourism",
+                  "tourism.sights",
+                  "tourism.sights.memorial",
+                  "tourism.sights.memorial.wayside_cross"
+              ],
+              "details": [],
+              "datasource": {
+                  "sourcename": "openstreetmap",
+                  "attribution": "© OpenStreetMap contributors",
+                  "license": "Open Database License",
+                  "url": "https://www.openstreetmap.org/copyright",
+                  "raw": {
+                      "osm_id": 6344670980,
+                      "historic": "wayside_cross",
+                      "osm_type": "n"
+                  }
+              },
+              "historic": {
+                  "type": "wayside_cross"
+              },
+              "distance": 3941,
+              "place_id": "5121949cb8c1d5fd3f5945c75b1833494740f00103f90104ff2b7a01000000"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  1.8646867000000003,
+                  46.57187180024497
+              ]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "country": "France",
+              "country_code": "fr",
+              "region": "Metropolitan France",
+              "state": "Centre-Val de Loire",
+              "county": "Indre",
+              "city": "Tranzault",
+              "municipality": "La Châtre",
+              "postcode": "36230",
+              "street": "Chemin d'Angibault",
+              "lon": 1.8520911,
+              "lat": 46.6295379,
+              "state_code": "CVL",
+              "state_COG": "24",
+              "formatted": "Chemin d'Angibault, 36230 Tranzault, France",
+              "address_line1": "Chemin d'Angibault",
+              "address_line2": "36230 Tranzault, France",
+              "categories": [
+                  "tourism",
+                  "tourism.sights",
+                  "tourism.sights.memorial",
+                  "tourism.sights.memorial.wayside_cross"
+              ],
+              "details": [],
+              "datasource": {
+                  "sourcename": "openstreetmap",
+                  "attribution": "© OpenStreetMap contributors",
+                  "license": "Open Database License",
+                  "url": "https://www.openstreetmap.org/copyright",
+                  "raw": {
+                      "osm_id": 5851524289,
+                      "historic": "wayside_cross",
+                      "osm_type": "n"
+                  }
+              },
+              "historic": {
+                  "type": "wayside_cross"
+              },
+              "distance": 4022,
+              "place_id": "511467fb462aa2fd3f599a8caab294504740f00103f901c12cc75c01000000"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  1.8520911,
+                  46.62953790023421
+              ]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "name": "Calvaire",
+              "country": "France",
+              "country_code": "fr",
+              "region": "Metropolitan France",
+              "state": "Centre-Val de Loire",
+              "county": "Indre",
+              "city": "Tranzault",
+              "municipality": "La Châtre",
+              "postcode": "36230",
+              "street": "Allée Lucien Blanchet",
+              "lon": 1.8507772,
+              "lat": 46.6288708,
+              "state_code": "CVL",
+              "state_COG": "24",
+              "formatted": "Calvaire, Allée Lucien Blanchet, 36230 Tranzault, France",
+              "address_line1": "Calvaire",
+              "address_line2": "Allée Lucien Blanchet, 36230 Tranzault, France",
+              "categories": [
+                  "tourism",
+                  "tourism.sights",
+                  "tourism.sights.memorial",
+                  "tourism.sights.memorial.wayside_cross"
+              ],
+              "details": [
+                  "details.place_of_worship"
+              ],
+              "datasource": {
+                  "sourcename": "openstreetmap",
+                  "attribution": "© OpenStreetMap contributors",
+                  "license": "Open Database License",
+                  "url": "https://www.openstreetmap.org/copyright",
+                  "raw": {
+                      "name": "Calvaire",
+                      "osm_id": 4932056206,
+                      "historic": "wayside_cross",
+                      "osm_type": "n",
+                      "religion": "christian",
+                      "denomination": "catholic"
+                  }
+              },
+              "historic": {
+                  "type": "wayside_cross"
+              },
+              "place_of_worship": {
+                  "religion": "christian",
+                  "denomination": "catholic"
+              },
+              "distance": 4040,
+              "place_id": "5151eba28dc89cfd3f593935a0d67e504740f00103f9018e34f9250100000092030843616c7661697265"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  1.8507771999999998,
+                  46.62887080023433
+              ]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "name": "Ancienne boite aux lettres",
+              "country": "France",
+              "country_code": "fr",
+              "region": "Metropolitan France",
+              "state": "Centre-Val de Loire",
+              "county": "Indre",
+              "city": "Tranzault",
+              "hamlet": "Rimenoux",
+              "municipality": "La Châtre",
+              "postcode": "36230",
+              "street": "Allée de la Bascule",
+              "lon": 1.8503283,
+              "lat": 46.6302902,
+              "state_code": "CVL",
+              "state_COG": "24",
+              "formatted": "Ancienne boite aux lettres, Allée de la Bascule, 36230 Tranzault, France",
+              "address_line1": "Ancienne boite aux lettres",
+              "address_line2": "Allée de la Bascule, 36230 Tranzault, France",
+              "categories": [
+                  "tourism",
+                  "tourism.attraction"
+              ],
+              "details": [],
+              "datasource": {
+                  "sourcename": "openstreetmap",
+                  "attribution": "© OpenStreetMap contributors",
+                  "license": "Open Database License",
+                  "url": "https://www.openstreetmap.org/copyright",
+                  "raw": {
+                      "name": "Ancienne boite aux lettres",
+                      "osm_id": 5851491780,
+                      "tourism": "attraction",
+                      "osm_type": "n"
+                  }
+              },
+              "distance": 4176,
+              "place_id": "51facff5d8f19afd3f594f7f6a59ad504740f00103f901c4adc65c0100000092031a416e6369656e6e6520626f69746520617578206c657474726573"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  1.8503282999999997,
+                  46.630290200234064
+              ]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "name": "Monument aux Morts",
+              "country": "France",
+              "country_code": "fr",
+              "region": "Metropolitan France",
+              "state": "Centre-Val de Loire",
+              "county": "Indre",
+              "city": "Tranzault",
+              "hamlet": "Rimenoux",
+              "municipality": "La Châtre",
+              "postcode": "36230",
+              "street": "Route des Deux Vallées",
+              "lon": 1.850317,
+              "lat": 46.6307359,
+              "state_code": "CVL",
+              "state_COG": "24",
+              "formatted": "Monument aux Morts, Route des Deux Vallées, 36230 Tranzault, France",
+              "address_line1": "Monument aux Morts",
+              "address_line2": "Route des Deux Vallées, 36230 Tranzault, France",
+              "categories": [
+                  "tourism",
+                  "tourism.sights",
+                  "tourism.sights.memorial"
+              ],
+              "details": [
+                  "details.historic"
+              ],
+              "datasource": {
+                  "sourcename": "openstreetmap",
+                  "attribution": "© OpenStreetMap contributors",
+                  "license": "Open Database License",
+                  "url": "https://www.openstreetmap.org/copyright",
+                  "raw": {
+                      "name": "Monument aux Morts",
+                      "osm_id": 4384951536,
+                      "historic": "memorial",
+                      "memorial": "war_memorial",
+                      "osm_type": "n"
+                  }
+              },
+              "historic": {
+                  "type": "memorial",
+                  "memorial": "war_memorial"
+              },
+              "distance": 4212,
+              "place_id": "51afb9a3ffe59afd3f5980f537f4bb504740f00103f901f00c5d05010000009203124d6f6e756d656e7420617578204d6f727473"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  1.8503170000000002,
+                  46.63073590023396
+              ]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "name": "Croix avec une statue",
+              "country": "France",
+              "country_code": "fr",
+              "region": "Metropolitan France",
+              "state": "Centre-Val de Loire",
+              "county": "Indre",
+              "city": "Tranzault",
+              "hamlet": "Rimenoux",
+              "municipality": "La Châtre",
+              "postcode": "36230",
+              "street": "Route de la Lande",
+              "lon": 1.8536046,
+              "lat": 46.6334504,
+              "state_code": "CVL",
+              "state_COG": "24",
+              "formatted": "Croix avec une statue, Route de la Lande, 36230 Tranzault, France",
+              "address_line1": "Croix avec une statue",
+              "address_line2": "Route de la Lande, 36230 Tranzault, France",
+              "categories": [
+                  "tourism",
+                  "tourism.sights",
+                  "tourism.sights.memorial",
+                  "tourism.sights.memorial.wayside_cross"
+              ],
+              "details": [],
+              "datasource": {
+                  "sourcename": "openstreetmap",
+                  "attribution": "© OpenStreetMap contributors",
+                  "license": "Open Database License",
+                  "url": "https://www.openstreetmap.org/copyright",
+                  "raw": {
+                      "name": "Croix avec une statue",
+                      "osm_id": 5856821298,
+                      "historic": "wayside_cross",
+                      "osm_type": "n"
+                  }
+              },
+              "historic": {
+                  "type": "wayside_cross"
+              },
+              "distance": 4274,
+              "place_id": "514c710b4c5da8fd3f59085218e714514740f00103f9013200185d0100000092031543726f6978206176656320756e6520737461747565"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  1.8536045999999997,
+                  46.63345040023347
+              ]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "country": "France",
+              "country_code": "fr",
+              "region": "Metropolitan France",
+              "state": "Centre-Val de Loire",
+              "county": "Indre",
+              "city": "Fougerolles",
+              "hamlet": "Berlinguet",
+              "municipality": "La Châtre",
+              "postcode": "36230",
+              "street": "Route de la Vallée du Gourdon",
+              "lon": 1.871165,
+              "lat": 46.5664116,
+              "state_code": "CVL",
+              "state_COG": "24",
+              "formatted": "Route de la Vallée du Gourdon, 36230 Fougerolles, France",
+              "address_line1": "Route de la Vallée du Gourdon",
+              "address_line2": "36230 Fougerolles, France",
+              "categories": [
+                  "tourism",
+                  "tourism.sights",
+                  "tourism.sights.memorial",
+                  "tourism.sights.memorial.wayside_cross"
+              ],
+              "details": [],
+              "datasource": {
+                  "sourcename": "openstreetmap",
+                  "attribution": "© OpenStreetMap contributors",
+                  "license": "Open Database License",
+                  "url": "https://www.openstreetmap.org/copyright",
+                  "raw": {
+                      "osm_id": 6344670979,
+                      "historic": "wayside_cross",
+                      "osm_type": "n"
+                  }
+              },
+              "historic": {
+                  "type": "wayside_cross"
+              },
+              "distance": 4312,
+              "place_id": "51aab706b64af0fd3f59d790e12c80484740f00103f90103ff2b7a01000000"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  1.871165,
+                  46.56641160024599
+              ]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "country": "France",
+              "country_code": "fr",
+              "region": "Metropolitan France",
+              "state": "Centre-Val de Loire",
+              "county": "Indre",
+              "city": "Chassignolles",
+              "isolated_dwelling": "Moulin de Ribe",
+              "municipality": "La Châtre",
+              "postcode": "36400",
+              "street": "Voie de chemin de fer désaffectée Aigurande-La Châtre",
+              "lon": 1.9077323,
+              "lat": 46.5663581,
+              "state_code": "CVL",
+              "state_COG": "24",
+              "formatted": "Voie de chemin de fer désaffectée Aigurande-La Châtre, 36400 Chassignolles, France",
+              "address_line1": "Voie de chemin de fer désaffectée Aigurande-La Châtre",
+              "address_line2": "36400 Chassignolles, France",
+              "categories": [
+                  "tourism",
+                  "tourism.sights",
+                  "tourism.sights.memorial",
+                  "tourism.sights.memorial.wayside_cross"
+              ],
+              "details": [],
+              "datasource": {
+                  "sourcename": "openstreetmap",
+                  "attribution": "© OpenStreetMap contributors",
+                  "license": "Open Database License",
+                  "url": "https://www.openstreetmap.org/copyright",
+                  "raw": {
+                      "osm_id": 4139060635,
+                      "historic": "wayside_cross",
+                      "osm_type": "n"
+                  }
+              },
+              "historic": {
+                  "type": "wayside_cross"
+              },
+              "distance": 4373,
+              "place_id": "51a15de04d1286fe3f59cd30176c7e484740f00103f9019b0db5f600000000"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  1.9077322999999995,
+                  46.566358100246
+              ]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "country": "France",
+              "country_code": "fr",
+              "region": "Metropolitan France",
+              "state": "Centre-Val de Loire",
+              "county": "Indre",
+              "city": "Tranzault",
+              "hamlet": "Rimenoux",
+              "municipality": "La Châtre",
+              "postcode": "36230",
+              "street": "Route du Lys",
+              "lon": 1.8486916,
+              "lat": 46.6318535,
+              "state_code": "CVL",
+              "state_COG": "24",
+              "formatted": "Route du Lys, 36230 Tranzault, France",
+              "address_line1": "Route du Lys",
+              "address_line2": "36230 Tranzault, France",
+              "categories": [
+                  "tourism",
+                  "tourism.sights",
+                  "tourism.sights.memorial",
+                  "tourism.sights.memorial.wayside_cross"
+              ],
+              "details": [],
+              "datasource": {
+                  "sourcename": "openstreetmap",
+                  "attribution": "© OpenStreetMap contributors",
+                  "license": "Open Database License",
+                  "url": "https://www.openstreetmap.org/copyright",
+                  "raw": {
+                      "osm_id": 5749602115,
+                      "historic": "wayside_cross",
+                      "osm_type": "n"
+                  }
+              },
+              "historic": {
+                  "type": "wayside_cross"
+              },
+              "distance": 4388,
+              "place_id": "51173da6a43d94fd3f5901af5393e0504740f00103f90143f7b35601000000"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  1.8486916000000002,
+                  46.63185350023378
+              ]
+          }
+      },
+      {
+          "type": "Feature",
+          "properties": {
+              "country": "France",
+              "country_code": "fr",
+              "region": "Metropolitan France",
+              "state": "Centre-Val de Loire",
+              "county": "Indre",
+              "city": "Fougerolles",
+              "hamlet": "Les Chauvins",
+              "municipality": "La Châtre",
+              "postcode": "36230",
+              "street": "Route de la Fontaine",
+              "lon": 1.8651585,
+              "lat": 46.5666086,
+              "state_code": "CVL",
+              "state_COG": "24",
+              "formatted": "Route de la Fontaine, 36230 Fougerolles, France",
+              "address_line1": "Route de la Fontaine",
+              "address_line2": "36230 Fougerolles, France",
+              "categories": [
+                  "tourism",
+                  "tourism.sights",
+                  "tourism.sights.memorial",
+                  "tourism.sights.memorial.wayside_cross"
+              ],
+              "details": [
+                  "details.place_of_worship"
+              ],
+              "datasource": {
+                  "sourcename": "openstreetmap",
+                  "attribution": "© OpenStreetMap contributors",
+                  "license": "Open Database License",
+                  "url": "https://www.openstreetmap.org/copyright",
+                  "raw": {
+                      "osm_id": 6300196807,
+                      "historic": "wayside_cross",
+                      "osm_type": "n",
+                      "religion": "christian",
+                      "denomination": "catholic"
+                  }
+              },
+              "historic": {
+                  "type": "wayside_cross"
+              },
+              "place_of_worship": {
+                  "religion": "christian",
+                  "denomination": "catholic"
+              },
+              "distance": 4454,
+              "place_id": "51e0b37570b0d7fd3f5928d86fa186484740f00103f901c75f857701000000"
+          },
+          "geometry": {
+              "type": "Point",
+              "coordinates": [
+                  1.8651584999999997,
+                  46.56660860024596
+              ]
+          }
+      }
+  ]
+}

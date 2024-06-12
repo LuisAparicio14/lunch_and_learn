@@ -1,0 +1,182 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "sF9bnqGEQtNGLrn2ST6C71mwylo",
+  "nextPageToken": "CAUQAA",
+  "regionCode": "US",
+  "pageInfo": {
+      "totalResults": 24,
+      "resultsPerPage": 5
+  },
+  "items": [
+      {
+          "kind": "youtube#searchResult",
+          "etag": "0x0D4schK7Qtp9a-sQP6UvDlfiU",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "uw8hjVqxMXw"
+          },
+          "snippet": {
+              "publishedAt": "2021-08-29T10:13:10Z",
+              "channelId": "UCluQ5yInbeAkkeCndNnUhpw",
+              "title": "A Super Quick History of Laos",
+              "description": "Audio Requiring Attribution: LukeIRL: https://freesound.org/people/LukeIRL/sounds/176134/ RTB45: ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/uw8hjVqxMXw/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/uw8hjVqxMXw/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/uw8hjVqxMXw/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Mr History",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-08-29T10:13:10Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "sJnSFZn2O9h5YPURjJIPwOmrGA0",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "m4DA0sm9hiE"
+          },
+          "snippet": {
+              "publishedAt": "2019-09-30T19:58:33Z",
+              "channelId": "UCluQ5yInbeAkkeCndNnUhpw",
+              "title": "A Super Quick History of Cambodia",
+              "description": "Sources: “A History of Cambodia” (2008) by David Chandler, Westview Press, Philadelphia, PA.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/m4DA0sm9hiE/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/m4DA0sm9hiE/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/m4DA0sm9hiE/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Mr History",
+              "liveBroadcastContent": "none",
+              "publishTime": "2019-09-30T19:58:33Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "mGmhIpeg1rjdwgpE5DSX3aOqUG8",
+          "id": {
+              "kind": "youtube#playlist",
+              "playlistId": "PLVRhJQ5GttaJJo5HY1JcEVihUpSV6fz5o"
+          },
+          "snippet": {
+              "publishedAt": "2019-08-02T20:36:34Z",
+              "channelId": "UCluQ5yInbeAkkeCndNnUhpw",
+              "title": "Super Quick Histories!",
+              "description": "",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/MfGoJrqh0Gk/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/MfGoJrqh0Gk/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/MfGoJrqh0Gk/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Mr History",
+              "liveBroadcastContent": "none",
+              "publishTime": "2019-08-02T20:36:34Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "bFLu7ypUuAgf--wAv5rPr4cauVQ",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "PvefyIXfqek"
+          },
+          "snippet": {
+              "publishedAt": "2021-12-13T21:16:26Z",
+              "channelId": "UCluQ5yInbeAkkeCndNnUhpw",
+              "title": "A Super Quick History of the Maldives",
+              "description": "Pictures Requiring Attribution: Gsnewid: https://commons.wikimedia.org/wiki/File:Coconut_Tree_in_Tamilnadu.jpg Indunil ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/PvefyIXfqek/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/PvefyIXfqek/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/PvefyIXfqek/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Mr History",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-12-13T21:16:26Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "NQoIVSJACU4pggii0aqvaq7Nqzs",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "KK-95AVb0As"
+          },
+          "snippet": {
+              "publishedAt": "2022-01-14T23:58:27Z",
+              "channelId": "UCluQ5yInbeAkkeCndNnUhpw",
+              "title": "A Super Quick History of Mauritius",
+              "description": "Pictures Requiring Attribution: Cristian Lorini: https://commons.wikimedia.org/wiki/File:Le_Morne_-_panoramio.jpg © CEphoto, ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/KK-95AVb0As/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/KK-95AVb0As/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/KK-95AVb0As/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Mr History",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-01-14T23:58:27Z"
+          }
+      }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "results": [
+      {
+          "datasource": {
+              "sourcename": "openstreetmap",
+              "attribution": "© OpenStreetMap contributors",
+              "license": "Open Database License",
+              "url": "https://www.openstreetmap.org/copyright"
+          },
+          "country": "France",
+          "country_code": "fr",
+          "lon": 1.8883335,
+          "lat": 46.603354,
+          "result_type": "country",
+          "formatted": "France",
+          "address_line1": "France",
+          "address_line2": "",
+          "category": "administrative",
+          "timezone": {
+              "name": "Europe/Paris",
+              "offset_STD": "+01:00",
+              "offset_STD_seconds": 3600,
+              "offset_DST": "+02:00",
+              "offset_DST_seconds": 7200,
+              "abbreviation_STD": "CET",
+              "abbreviation_DST": "CEST"
+          },
+          "plus_code": "8FR3JV3Q+88",
+          "rank": {
+              "importance": 1.0133264437396503,
+              "popularity": 5.325744118786215,
+              "confidence": 1,
+              "match_type": "full_match"
+          },
+          "place_id": "51390f27309d36fe3f5995f430b43a4d4740f00101f901329a210000000000c0020b",
+          "bbox": {
+              "lon1": -178.3873749,
+              "lat1": -50.2187169,
+              "lon2": 172.3057152,
+              "lat2": 51.3055721
+          }
+      }
+  ],
+  "query": {
+      "text": "france",
+      "parsed": {
+          "country": "france",
+          "expected_type": "unknown"
+      }
+  }
+}
